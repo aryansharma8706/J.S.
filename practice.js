@@ -27,3 +27,5 @@ const dict = {
 }
 console.log(dict["yakka"])
 console.log(dict.yakka)
+
+console.log("Aryan sharma")
