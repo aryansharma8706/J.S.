@@ -13,5 +13,4 @@ a = Number.parseInt(a)
 //     alert("You can now drive")
 // }
 // console.log("Done")
-
 console.log("You can",(a<18? "not drive" : "drive"))
